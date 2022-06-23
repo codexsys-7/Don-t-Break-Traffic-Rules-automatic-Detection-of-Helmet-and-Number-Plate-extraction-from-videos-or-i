@@ -1,4 +1,4 @@
-![Hello](https://thumbs.gfycat.com/ThirdImpureDouglasfirbarkbeetle-size_restricted.gif)
+![Rules](https://cdn.ebaumsworld.com/mediaFiles/picture/1903451/85895170.gif)
 
 # _Dont Break Traffic Rules automatic Detection of Helmet and Number Plate extraction from videos or images_
 Don’t Break Traffic Rules is basically a small yet massive background application model, which allows the users to detect and even capture the riders riding their vehicle without wearing helmet. So obviously yolo has been used to perform this type of task, since due to its scalability and efficiency it detects the objects in an image or video accurately, Since it was manually trained on 1000’s of images to perform this task. Along with yolo we have also used OpenCV and Tkinter gui to build a front-end framework.
@@ -114,7 +114,7 @@ The model has been trained by labelling several images of people riding bikes, t
 7. **AttributeError: Upsample has no attribute 'recompute_scalr_factor**, This error can be solved by locating **Upsampling.py** file in your **anaconda/lib/site_pcakages/torch/nn/mopdules**, got to 154 line and comment out recompute_scale_factor = self.recompute_scale_factor and amke sure you ahve closed the paranthesis. This is the most common issue where every one have faced.
 
 # _Note:_
-**All the required data has been provided over here. Please feel free to contact me if you guys face any issues.** abhiabhinay629@gmail.com
+**All the required data hasn't been provided over here. Please feel free to contact me for model weights and if you face any issues.** abhiabhinay629@gmail.com
 
-# ___**Yes, You now have more knowledge than yesterday, Keep Going.**___
+# _**Yes, You now have more knowledge than yesterday, Keep Going.**_
 ![Congrats](https://lh3.googleusercontent.com/proxy/hQPDYkEAsrtTY4xcM4ZpU_BYIXbv2gsAXNmoADRg0RQS0A3YlCkFHpWaeAnvOvhTR4fCdpxEd67hBrGkC8fXElkDbaCHvIYOGZhetvvrmh0ZTTnd5YjXTGOcLgT5RPxPu7UQpqh9OpWkAzqwKqw32w=s0-d)
